@@ -19,3 +19,9 @@ C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\refint\ACSHFS
 C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\ACSHFSys.pdb
 C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\ACSHFSys.genruntimeconfig.cache
 C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\ref\ACSHFSys.dll
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\ACSHFSys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a.rabariliva\Desktop\MinimalAPI\ACSHFSys\obj\Debug\net6.0\ACSHFSys.csproj.CopyComplete
